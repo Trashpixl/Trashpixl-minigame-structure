@@ -1,0 +1,6 @@
+1=labyrinte code=zero
+2=course sur glace bateau code=zero
+3=bow pvp
+4=bridge
+5=tnt run
+6=le dernier qui tombe et mine le plus
