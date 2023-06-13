@@ -1,6 +1,6 @@
 # Trashpixl-Minigame-Structure
 
-This repository contains a dump of the minigame structure file from various contributor.
+This repository contains a dump of the minigame structure file from various contributor. That might be used as inspiration for our builder
 
 # How to Contribute to the Project
 
